@@ -26,7 +26,7 @@ Ensure that all the required images for the dynamic representation are located i
 To start the application, run the script from your terminal or command prompt:
 
 ```
-python chemical_reaction_gui.py
+python main.py
 ```
 
 Follow the on-screen prompts to input the chemical species, their coefficients, and initial quantities. The application will guide you through each step of the input process.
